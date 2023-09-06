@@ -1,5 +1,6 @@
 
-# NikitaKotecha-GM-Assignment
+# Playwright-Automation
+
 
 ## Table Of Contents
 * [Introduction](#Introduction)
